@@ -1,12 +1,12 @@
 
 ## Title
 
-Website Launch countdown
+Image Transition
 
 
 ## Description 
 
-A launch countdown site with a visually appealing design, countdown timer, and interactive elements. Get ready for the launch and stay updated with the remaining days, hours, minutes, and seconds. Visit the GitHub repository for more details.
+Image Transition is a web page that showcases a background image transition effect. As the cursor moves horizontally, the background image reveals itself, providing an engaging visual experience.
 
 ## Authors
 
@@ -15,13 +15,11 @@ A launch countdown site with a visually appealing design, countdown timer, and i
     
 ## Getting Started
 
-Website launch countdown, follow these steps:
+Image Transition web page, follow these steps:
 
    1. Download the source code:
 
-    --Clone or download the repository.
-
-    --Save the files to your local machine.
+    --Clone or download the repository to your local machine.
 
    2. Open the project:
 
@@ -29,56 +27,51 @@ Website launch countdown, follow these steps:
 
    3. Customize the code:
 
-    --Modify the HTML, CSS, and JavaScript files as needed.
+    --Modify the HTML, CSS, and JavaScript files to match your desired design and requirements.
 
-    --Update the logo, background image, and colors to match your branding.
+    --Replace the background image ("background.png") with your own image.
 
-    --Adjust the countdown date and maintenance message according to your launch schedule.
+    --Adjust the dimensions and positioning of the image elements as desired.
 
-   5. Add additional content:
+   4. Test the effect:
 
-    --Expand the content section with more information about your website launch.
+    --Open the HTML file in a web browser to see the image transition effect.
 
-    --Customize the button text and link to provide relevant information or resources.
+    --Move the cursor horizontally to observe the background image gradually revealing itself.
 
-   6. Test the website countdown:
+   5. Customize the image:
 
-    --Open the HTML file in a web browser to see the customized countdown in action.
+    --Replace the "original.jpg" image with your preferred image.
 
-    --Ensure that the countdown timer accurately displays the remaining time until your website launch.
+    --Ensure that the image is of suitable dimensions and format for optimal display.
 
-    --Verify that the zoom effect on the logo works correctly when hovered.
-
-    --Click the "Learn More" button and confirm that it opens the specified link in a new tab.
-
-   7. Deploy the countdown site:
+   6. Deploy the web page:
 
     --Upload the modified code to your web hosting or server.
 
-    --Follow the deployment instructions provided by your hosting provider.
+   7. Enjoy the effect:
 
-Note: The provided code offers a foundation for a visually appealing countdown site for your website launch. Feel free to customize it further to add more features, adjust the layout, or incorporate additional animations. Enjoy the flexibility of tailoring the countdown site to build anticipation and engage your audience before your website goes live.
+    --View your website or web page with the engaging image transition effect.
+
+    --Experiment with different background images to create captivating visual experiences.
+
+Feel free to customize the code further to add additional features or enhancements according to your creative vision.
 
 
 
 ## Features
 
 
-   1. Countdown Timer: Stay informed about the upcoming website launch with a dynamic countdown timer.
+   1. Background image transition effect triggered by cursor movement.
 
-   2. Visually Appealing Design: Eye-catching background image, logo, and animations enhance the visual experience.
+   2. The background image gradually appears as the cursor moves horizontally.
 
-   3. Maintenance Message: A clear message indicating that the website is under maintenance.
+   3. Smooth and interactive visual effect.
 
-   4. Learn More Button: Easily access additional information about the launch by clicking the button.
+   4. Responsive design that adapts to different screen sizes.
 
-   5. Responsive Layout: The site is designed to be responsive and adapt to different screen sizes.
+   5. Easy to integrate into any website or project.
 
-   6. Zoom Effect: The logo image zooms in when hovered, adding an interactive element.
-
-   7. Rocket Animation: A rocket image animates from the bottom to the top, adding a dynamic touch.
-
-   8. Easy Customization: Modify the content, styling, and countdown date in the code to fit your needs.
 
 
 ## Contributing
